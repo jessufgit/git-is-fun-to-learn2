@@ -1,4 +1,4 @@
-# git-is-fun-to-learn2
+# git-is-fun-to-learn2 (Pushing and Pulling)
 
 In the first part of this series, you created a repository locally and connected it to your Git Hub account. It's now time to learn about pushes and pulls to git hub.
 
