@@ -41,10 +41,11 @@ You will get a message that may read something like...
     remote: Counting objects: 100% (5/5), done.
     remote: Compressing objects: 100% (2/2), done.
     remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+    Unpacking objects: 100% (3/3), done.
     
 and then something towards the bottom with the name of the document you modified and some + signs.
 If you now open the repository folder on your desktop and examine the README file - you should see that it has been changed to reflect the change you made on Git Hub.
 
 Congratulations! You have learned how to both push to and pull from your Git Hub repository.
 
-Unpacking objects: 100% (3/3), done.
+
